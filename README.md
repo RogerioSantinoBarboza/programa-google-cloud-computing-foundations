@@ -9,7 +9,7 @@
 
 </br>
 
-**Observação**: Este repositório estará disponível somente até o dia 18/12/2021.
+**Observação**: Este repositório estará disponível somente até o dia **18/12/2021**.
 </br></br>
 
 ## Objetivo
