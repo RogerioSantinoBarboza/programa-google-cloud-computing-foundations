@@ -56,7 +56,6 @@ Os encontros ocorrerão aos sábados no horário das 10h00 às 12h00, quinzenalm
 |    13    | `18 de dezembro` |  `10h00` |  `12h00`  |
 
 </center>
-</br>
 
 ## Perguntas frequentes
 
