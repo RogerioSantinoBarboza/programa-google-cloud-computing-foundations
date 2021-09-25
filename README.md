@@ -3,12 +3,9 @@
 ## Professor
 
 * Prof. Dr. Edson Melo de Souza
-* Email: [souzaem@uni9.pro.br](mailto:souzaem@uni9.pro.br)
 * [Currículo Lates](http://lattes.cnpq.br/2641658716558510)
 * [ORCID](https://orcid.org/0000-0002-5891-4767)
 * [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55561358000)
-
-</br>
 
 ## Encaminhamento de problemas com o acesso/créditos
 
