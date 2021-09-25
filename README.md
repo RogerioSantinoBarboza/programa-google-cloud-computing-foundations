@@ -117,6 +117,11 @@ Não, o acesso é exclusivo para alunos da Uninove que tiveram sua inscrição a
 Aguarde dois dias após o cadastro. Se não aparecer, preencha o formulário <a href="#formulario">clicando aqui</a> e informe o seu problema..
 </br></br>
 
+### Como tornar meu perfil público ?
+
+Clique na parte escrita "perfil" e depois aperte no botão "*make badge profile public*", por último, copie o link e cole lá no formulário.
+
+
 ### Minha dúvida não está listada aqui, e agora?
 
 Não se preocupe, você poderá perguntar para o professor no próximo <a href="#agenda">encontro agendado</a>.
